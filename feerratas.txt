@@ -2,4 +2,4 @@
 FE DE ERRATAS
 
 
-* El termino de la pagina por lo general 15 es impresiso.
+* El termino de la pagina 15 por lo general es impresiso.
