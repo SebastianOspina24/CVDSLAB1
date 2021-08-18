@@ -29,7 +29,7 @@ Para mas informacion haga click *[aqui][1]*
 
 ### Lenguajes que domina
 
-1. Phyton
+1. Python
 2. Java
 3. JavaScript
 4. HTML
@@ -64,5 +64,8 @@ main{
   margin-right: auto;
 }
 ```
+
+
+![Curso](https://drive.google.com/file/d/1R9ypFgFfo-uRw7wu_pBL3bPJjYnh_yqQ/view?usp=sharing)
 
 [1]: https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/#scrolling-content-plan_de_estudios-6
