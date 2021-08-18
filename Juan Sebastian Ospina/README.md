@@ -66,7 +66,7 @@ main{
 ```
 
 
-![Curso1](https://ibb.co/BZ0Hy30)
-![Curso2](https://ibb.co/2FMsCSh)
+![Curso1](https://i.ibb.co/vP0C3q0/IMG-20210818-150143.jpg)
+![Curso2](https://i.ibb.co/GdMt89p/IMG-20210818-150149.jpg)
 
 [1]: https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/#scrolling-content-plan_de_estudios-6
