@@ -43,7 +43,7 @@ Los parrados en markdown se separan mediante dos veces espacio al final
 
 ###Curso Completado
 
-![Primera foto](blob:https://web.whatsapp.com/2d71e6d0-aff2-4c99-9782-0a82d453641b)
-![Segunda foto](blob:https://web.whatsapp.com/92420cbb-bf11-49c9-90a3-1db1dff6f82a)
+![Primera foto](https://ibb.co/SKSwQDN)
+![Segunda foto](https://ibb.co/Qmd6Y7w)
 
 [1]: https://github.com/SebastianOspina24/CVDSLAB1
